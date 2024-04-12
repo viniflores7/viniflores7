@@ -1,4 +1,4 @@
-## Bom dia, boa tarde e boa noite! Como você está? Eu sou o Vinícius
+## Bom dia, boa tarde e boa noite! Como você está?
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=viniflores7&theme=radical&mode=weekly" />
@@ -9,7 +9,7 @@
  &nbsp;
 
 
-- 🌱 Estou estudando as seguintes tecnologias:
+## 🌱 Estou estudando as seguintes tecnologias:
 <br></br>
 
 <div align="center" style="margin-bottom:100px">
@@ -22,8 +22,8 @@
 </div>
 
 <br></br>
-- 💬 Entre em contato em:
+## 💬 Entre em contato em:
 <br></br>
-            [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-flores-ribeiro-844492268/?originalSubdomain=br)
-            [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=inbox@example.com&bcc=viniciusfribeiro1207@gmail.com&subject=Hey#inbox?compose=new)
-            [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini_flores7/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-flores-ribeiro-844492268/?originalSubdomain=br)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=inbox@example.com&bcc=viniciusfribeiro1207@gmail.com&subject=Hey#inbox?compose=new)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini_flores7/)
