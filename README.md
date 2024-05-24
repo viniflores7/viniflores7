@@ -1,4 +1,4 @@
-## Bom dia, boa tarde e boa noite! Como você está?
+## Good morning, good afternoon and good night! How are you?
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=viniflores7&theme=radical&mode=weekly" />
@@ -9,7 +9,7 @@
  &nbsp;
 
 
-## 🌱 Estou estudando as seguintes tecnologias:
+## 🌱 I am studying the following technologies:
 <br></br>
 
 <div align="center" style="margin-bottom:100px">
@@ -22,7 +22,7 @@
 </div>
 
 <br></br>
-## 💬 Entre em contato em:
+## 💬 Contact me:
 <br></br>
 <a href="https://www.linkedin.com/in/vinícius-flores-ribeiro-844492268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:viniciusfribeiro1207@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
