@@ -18,6 +18,8 @@
       <img alt='flutter' src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white' />
       <img alt='dart' src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white' />
       <img alt='ruby' src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' />
+      <img alt='rails' src='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' />
+
 
 </div>
 
