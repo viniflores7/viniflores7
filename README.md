@@ -1,9 +1,3 @@
-## 👋 Hello, I'm Vinícius Flores!  
-
-I am a **Software Engineering student** and **Flutter developer**, passionate about mobile development and software architecture. I have experience in **Flutter, Dart, GitHub, API development**, and **CI/CD pipelines**. Currently, I am an **intern at CoderFOX**, where I work with **StackedCLI, GoRouter, i18Next, GitHub Actions and more..**.  
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center"> 
