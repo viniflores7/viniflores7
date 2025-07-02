@@ -1,21 +1,14 @@
-## 📊 GitHub Stats  
-
-<div align="center"> 
-  <img width=55% src="https://github-readme-streak-stats.herokuapp.com?user=viniflores7&theme=radical&mode=weekly" />
-  <img width=40% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=viniflores7&show_icons=true&theme=radical&layout=compact" />
-</div>    
-
----
-
 ## 🌱 Technologies I work with  
 
 <div align="center"> 
   <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img alt="patrol" src="https://img.shields.io/badge/Patrol-0057FF?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="cicd" src="https://img.shields.io/badge/CI/CD-0A192F?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="django" src="https://img.shields.io/badge/Django%20ERP-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>  
+
  
 ---
 
