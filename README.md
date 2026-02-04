@@ -1,13 +1,12 @@
-## 🌱 Technologies I work with  
+## 🌱 Technologies I currently work with
 
-<div align="center"> 
-  <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="aspnet" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  
-  <img alt="vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>  
+<div align="center">
+  <img alt=".NET 4.8" src="https://img.shields.io/badge/.NET%204.8%20(ASP.NET%20MVC)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img alt="Razor" src="https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="TFS" src="https://img.shields.io/badge/TFS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
 
  
 ---
